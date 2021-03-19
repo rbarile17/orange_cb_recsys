@@ -7,7 +7,7 @@ on:
     
 env:
     IMAGE_NAME: orange_cb_dependencies
-    COVERALLS_REPO_TOKEN: m7F9CNmqoMWrzUv0lcmojwOCqk7PGjDG8
+    COVERALLS_REPO_TOKEN: o9LSDFzoa58VqWVtDNf5rdgUY5YvEHW05
     
 jobs:
   main:

@@ -6,7 +6,7 @@ on:
     branches: [ master ]
     
 env:
-    IMAGE_NAME: framework_dependencies
+    IMAGE_NAME: orange_cb_dependencies
     COVERALLS_REPO_TOKEN: m7F9CNmqoMWrzUv0lcmojwOCqk7PGjDG8
     
 jobs:
